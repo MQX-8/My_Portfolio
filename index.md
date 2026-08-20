@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[### The next project I'm considering: <span style="color: #4af137;">***Threat Hunting with Event Tracing for Windows (ETW) using SilkETW, Windows Event Forwarding (WEF), HELK, and Kibana.***</span>](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=false"/>
 
 ---
