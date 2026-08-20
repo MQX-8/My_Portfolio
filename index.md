@@ -13,7 +13,7 @@
 
 ---
 ### ***The next project I'm considering: <span style="color: #0a75ad;">Threat Hunting with Event Tracing for Windows (ETW) using SilkETW, Windows Event Forwarding (WEF), HELK, and Kibana.</span>***
->This project sounds very interesting and fun, however, it will likely be 2+ months before I can begin. The Fall semester has arrived, my SOC Triage Lab is ongoing, and I >will be employed soon.
+>This project sounds very interesting and fun, however, it will likely be 2+ months before I can begin. The Fall semester has arrived, my SOC Triage Lab is ongoing, and I will be employed soon.
 
 <img src="images/SilkETW.png?raw=true"/> (imgage credit: https://blog.salucci.ch/assets/images/SilkETW-0ce5648e11a8e4250aacaae379684439.png)
 
