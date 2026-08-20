@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects, Home Labs, Reports
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### ThinkHub
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,9 +27,28 @@
 
 ---
 
+### ThinkHub
 
-
+Thoughts on research I've done, articles I've read, the state of cybersecurity & AI, APT groups, etc.
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
+### ResourceHub
+
+Resources I've used for cybersecurity, info sec, IT, etc., here.
+
+---
+
+### BookHub
+
+Personal growth books I've read...and recommend! No other genres will be listed here.
+
+---
+
+### HobbyHub
+
+Fitness & nutrition, travel, hiking, Philadelphia Eagles football, etc.
+
+---
+<p style="font-size:12px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
