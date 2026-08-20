@@ -3,6 +3,8 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Welcome! My Portfolio will be where I upload anything and everything relevant to who I am as a person, professional, and limitless learner. Instead of having more of the same (linkedin = resume = indeed = every other job site) I wanted to make this page a representation of me. My thought processes, things I do in my spare time, and more will be displayed here to present a holistic profile. 
   <br><br>
+  Note: This list of projects is not exhaustive. I will only list the more exciting & in-depth projects here.  
+  
   <a href="https://www.linkedin.com/in/mario-hilt-89b874261/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
