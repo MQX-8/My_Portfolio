@@ -1,13 +1,14 @@
 <span style="color:#4af137">***The documentation below has been condensed.<br>To view the full report:***</span> ***[Wireshark_Report_HomeLab_SOC_Polished.pdf](https://github.com/user-attachments/files/31169791/Wireshark_Report_HomeLab_SOC_Polished.pdf)***  
 
+# <span style="color: #9a848d;">**Project Overview**</span>  
 A brief packet capture of the 192.168.1.0/24 home network identified four previously unmapped TCP sessions between workstation 192.168.1.224 and local endpoint 192.168.1.217 on destination port 8009. Traffic anomalies were triaged to determine the origin, protocol context, initiating processes, and legitimacy of the sessions.
 
 Triage objectives:
 
-Identify and classify the previously unmapped endpoint.
-Validate the protocols and services observed in the packet capture, including SSDP, UPnP, DIAL, and Google Cast.
-Correlate the four network sessions with the local processes that initiated them.
-Determine whether the activity represented malicious behavior, a misconfiguration, or legitimate baseline telemetry.
+- Identify and classify the previously unmapped endpoint.<br>
+- Validate the protocols and services observed in the packet capture, including SSDP, UPnP, DIAL, and Google Cast.<br>
+- Correlate the four network sessions with the local processes that initiated them.<br>
+- Determine whether the activity represented malicious behavior, a misconfiguration, or legitimate baseline telemetry.
 
 
 ## **Wireshark Lab | Investigating SSDP, UPnP, and Google Cast Between Chromium Devices & Applications**
