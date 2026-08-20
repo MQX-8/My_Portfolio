@@ -4,16 +4,16 @@
 
 ### Projects, Home Labs, Reports
 
-[SOC Detection and Incident-Triage Home Lab (In Progress)](/sample_page)
+### **[SOC Detection and Incident-Triage Home Lab (In Progress)]**(/sample_page)
 <img src="images/SOC_Lab.png?raw=true"/>
 
 ---
-[Local Network Traffic Analysis: Investigating Suspicious Outbound Connections with WireShark -- Home Lab](/pdf/sample_presentation.pdf)
+### [**Local Network Traffic Analysis: Investigating Suspicious Outbound Connections with WireShark -- Home Lab**](/pdf/sample_presentation.pdf)
 <img src="images/Wireshark.png?raw=true"/>
 
 ---
-###[The next project I'm considering: <span style="color: #4af137;">Threat Hunting with Event Tracing for Windows (ETW) using SilkETW, Windows Event Forwarding (WEF), HELK, and Kibana.</span>]***(http://example.com/)  
-This project sounds very interesting and fun, however, it will likely be 2+ months before I can begin. The Fall semester has arrived, my SOC Triage Lab is ongoing, and I will be employed soon.  
+### ***The next project I'm considering: Threat Hunting with Event Tracing for Windows (ETW) using SilkETW, Windows Event Forwarding (WEF), HELK, and Kibana.***
+>This project sounds very interesting and fun, however, it will likely be 2+ months before I can begin. The Fall semester has arrived, my SOC Triage Lab is ongoing, and I >will be employed soon.  
 <img src="images/SilkETW.png?raw=true"/>
 
 ---
