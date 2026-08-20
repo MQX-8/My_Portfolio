@@ -1,0 +1,43 @@
+<span style="color: #4af137;">***Full reports for each attack I investigate will be published here as I complete them.***</span>
+
+**CRUDE, RAW NOTES:** [CRUDE_RAW_NOTES_Wazuh_SOC_Lab.pdf](https://github.com/user-attachments/files/31175721/CRUDE_RAW_NOTES_Wazuh_SOC_Lab.pdf)  
+
+# <span style="color: #9a848d;">**Project Overview**</span>
+I designed this lab to include a Kali Linux attack machine, a Windows 10 host, an Ubuntu host running OWASP Juice Shop, and an Ubuntu Server acting as Wazuh Server to simulate realistic SOC scenarios. Sysmon and Sysmon for Linux are installed on the 2 workstations and the Wazuh agents are configured to push those logs to the Wazuh server.  
+
+**UPDATE:** 18 August 2026
+<blockquote><p>This lab was originally intended to be proof of concept for T1 SOC Analyst skills, thus I wasn't too worried about a secure network design. However, the Security/Blue Team/Cautious instincts in me are screaming to put in the extra time and work to implement a 5th VM -- a pfSense firewall to isolate the SIEM infrastructure on a dedicated management subnet. Endpoint-to-SIEM communications will now be restricted to required Wazuh services by stateful firewall policy.</p></blockquote>  
+
+
+
+
+The purpose of this lab is to demonstrate my skills, hands-on training, and personal desire to learn and prepare for a T1 SOC Analyst role. I am only covering the following attacks for now, which are relevant for T1 positions, but I may document more attacks over time.
+
+## <span style="color: #a12b20;">Attacks Investigated</span>
+### 1. Suspicious PowerShell Execution
+### 2. Password Attack Followed by Successful Authentication
+### 3. Web App Attack
+### 4. Persistence Through a Scheduled Task  
+\
+Throughout the project: 
+### - I generate alerts and investigate them
+### - Practice SOC triage and incident analysis
+### - Build detections, timelines, and analyst reports
+### - Focus directly on SOC job responsibilities  
+
+\
+Additionally, I am able to identify the following IoCs relevant for T1 roles: 
+## Network IoCs
+### - Bad IP Addresses: Traffic to known hacker servers or command-and-control centers.
+### - Bad Domains: Web addresses used to steal data or load malware.
+### - Weird Ports: Traffic moving on unexpected ports instead of normal web traffic (ports 80 and 443).
+
+## Host IoCs
+### - File Hashes: Unique ID numbers for bad files.
+### - File Paths: Strange folders where malware hides, like C:\Windows\Temp.
+### - Registry Keys: Changes that let bad software start every time the computer boots up.
+
+## Email IoCs
+### - Bad Senders: Fake email addresses that look like real companies (spoofing).
+### - Bad Links: Links in emails that point to fake login pages.
+### - Weird Attachments: Files ending in .exe, .scr, or hidden inside zip files.
