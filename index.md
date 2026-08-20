@@ -8,7 +8,7 @@
 <img src="images/SOC_Lab.png?raw=true"/>
 
 ---
-### [<span style="color: #0a75ad;">**Local Network Traffic Analysis: Investigating Suspicious Outbound Connections with WireShark -- Home Lab**</span>](/Projects_Labs_Reports/NTA_Wireshark.md)
+### [<span style="color: #0a75ad;">Local Network Traffic Analysis: Investigating Suspicious Outbound Connections with WireShark -- Home Lab</span>](/Projects_Labs_Reports/NTA_Wireshark.md)
 <img src="images/Wireshark.png?raw=true"/>
 
 ---
