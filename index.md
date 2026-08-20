@@ -4,11 +4,11 @@
 
 ## Projects, Home Labs, Reports
 
-### [**SOC Detection and Incident-Triage Home Lab (In Progress)**](/sample_page)
+### [**SOC Detection and Incident-Triage Home Lab (In Progress)**](/Projects_Labs_Reports/SOC_Triage_Lab.md)
 <img src="images/SOC_Lab.png?raw=true"/>
 
 ---
-### [**Local Network Traffic Analysis: Investigating Suspicious Outbound Connections with WireShark -- Home Lab**](/pdf/sample_presentation.pdf)
+### [**Local Network Traffic Analysis: Investigating Suspicious Outbound Connections with WireShark -- Home Lab**](/Projects_Labs_Reports/NTA_Wireshark.md)
 <img src="images/Wireshark.png?raw=true"/>
 
 ---
