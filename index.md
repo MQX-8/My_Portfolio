@@ -1,10 +1,10 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Projects, Home Labs, Reports
+## Projects, Home Labs, Reports
 
-### [<span style="color: #0a75ad;">**SOC Detection and Incident-Triage Home Lab (In Progress)**</span>](/sample_page)
+### [**SOC Detection and Incident-Triage Home Lab (In Progress)**](/sample_page)
 <img src="images/SOC_Lab.png?raw=true"/>
 
 ---
@@ -19,25 +19,25 @@
 ---
 
 
-### ThinkHub
+## ThinkHub
 
 Thoughts on research I've done, articles I've read, the state of cybersecurity & AI, APT groups, etc.
 
 ---
 
-### ResourceHub
+## ResourceHub
 
 Resources I've used for cybersecurity, info sec, IT, etc., here.
 
 ---
 
-### BookHub
+## BookHub
 
 Personal growth books I've read...and recommend! No other genres will be listed here.
 
 ---
 
-### HobbyHub
+## HobbyHub
 
 Fitness & nutrition, travel, hiking, Philadelphia Eagles football, etc.
 
