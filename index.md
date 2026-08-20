@@ -5,17 +5,17 @@
 ## Projects, Home Labs, Reports
 
 ### [<span style="color: #0a75ad;">SOC Detection and Incident-Triage Home Lab (In Progress)</span>](/Projects_Labs_Reports/SOC_Triage_Lab.md)
-<img src="images/SOC_Lab.png?raw=true"/> (Early screenshot of my lab setup)
+<img src="images/SOC_Lab.png?raw=true"/> <p style="font-size:10px">(Early screenshot of my lab setup)</p>
 
 ---
 ### [<span style="color: #0a75ad;">Local Network Traffic Analysis: Investigating Suspicious Outbound Connections with WireShark -- Home Lab</span>](/Projects_Labs_Reports/NTA_Wireshark.md)
-<img src="images/Wireshark.png?raw=true"/> (imgage credit: https://miro.medium.com/v2/1*sQ9FI1LOgPMm7YJhvXPelg.png)
+<img src="images/Wireshark.png?raw=true"/> <p style="font-size:10px">(imgage credit: https://miro.medium.com/v2/1*sQ9FI1LOgPMm7YJhvXPelg.png)</p>
 
 ---
 ### ***The next project I'm considering: <span style="color: #0a75ad;">Threat Hunting with Event Tracing for Windows (ETW) using SilkETW, Windows Event Forwarding (WEF), HELK, and Kibana.</span>***
 >This project sounds very interesting and fun, however, it will likely be 2+ months before I can begin. The Fall semester has arrived, my SOC Triage Lab is ongoing, and I will be employed soon.
 
-<img src="images/SilkETW.png?raw=true"/> (imgage credit: https://blog.salucci.ch/assets/images/SilkETW-0ce5648e11a8e4250aacaae379684439.png)
+<img src="images/SilkETW.png?raw=true"/> <p style="font-size:10px">(imgage credit: https://blog.salucci.ch/assets/images/SilkETW-0ce5648e11a8e4250aacaae379684439.png)</p>
 
 ---
 
