@@ -4,7 +4,7 @@
 
 ## Projects, Home Labs, Reports
 
-### [<span style="color: #0a75ad;">**SOC Detection and Incident-Triage Home Lab (In Progress)**</span>](/Projects_Labs_Reports/SOC_Triage_Lab.md)
+### [<span style="color: #0a75ad;">SOC Detection and Incident-Triage Home Lab (In Progress)</span>](/Projects_Labs_Reports/SOC_Triage_Lab.md)
 <img src="images/SOC_Lab.png?raw=true"/>
 
 ---
